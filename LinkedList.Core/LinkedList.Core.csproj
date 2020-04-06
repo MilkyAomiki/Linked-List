@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>LinkedList</AssemblyName>
-    <RootNamespace>LinkedList</RootNamespace>
+    <RootNamespace>LinkedList.Core</RootNamespace>
   </PropertyGroup>
 
 </Project>

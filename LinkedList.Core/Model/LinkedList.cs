@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace LinkedList.Model
+namespace LinkedList.Core.Model
 {
     /// <summary>
     /// Linked list

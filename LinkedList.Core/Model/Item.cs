@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LinkedList.Model
+namespace LinkedList.Core.Model
 {
     /// <summary>
     /// Item that is storing in list
